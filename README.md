@@ -1,6 +1,7 @@
 # BSUFS
 
 The code in this toolbox implements "Bi-Sparse Unsupervised Feature Selection" by <i>X. Xiu, C. Huang, P. Shang, W. Liu</i>.
+
 ![alt text](./framework.png)
 
 ### Testing
