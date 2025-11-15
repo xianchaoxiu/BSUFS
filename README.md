@@ -15,8 +15,10 @@ Please give credits to this paper if this code is useful and helpful for your re
       author    = {Xiu, Xianchao and Huang, Chenyi and Shang, Pan and Liu, Wanquan},
       journal   = {IEEE Transactions on Image Processing}, 
       year      = {2025},
-      volume    = {},
+      volume    = {34},
       number    = {},
-      pages     = {},
+      pages     = {7407--7421},
       publisher = {IEEE}
      }
+
+
